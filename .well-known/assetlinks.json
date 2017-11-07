@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lge.app.lgassistant",
+    "sha256_cert_fingerprints":
+    ["75:08:4E:60:CC:B1:2D:71:F2:EB:3A:77:13:B9:7B:C9:C1:55:4D:E3:FA:6F:84:BD:6F:82:0B:21:5A:4F:37:6C"]
+  }
+}]
